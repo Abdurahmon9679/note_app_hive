@@ -86,7 +86,7 @@ class _HomePageState extends State<HomePage> {
       ),
     );
   }
-
+///grid items
   Card buildNotes(index) {
     return Card(
       elevation: 20,
